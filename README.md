@@ -8,7 +8,7 @@
 
 \## Nhận định chung
 
-Câu trả lời của tôi là: \*\*CÓ, chắc chắn sẽ phát triển cực kỳ mạnh mẽ\*\*, nhưng nó sẽ \*\*tiến hóa\*\* sang một hình thái khác so với hiện tại.
+Câu trả lời của em là: \*\*CÓ, chắc chắn sẽ phát triển cực kỳ mạnh mẽ\*\*, nhưng nó sẽ \*\*tiến hóa\*\* sang một hình thái khác so với hiện tại.
 
 
 
@@ -20,7 +20,7 @@ Ngành lập trình di động (Mobile Dev) không những không "chết", mà 
 
 
 
-\## Tại sao tôi tin vào điều đó? (5 Lý do chính)
+\## Tại sao em tin vào điều đó? (5 Lý do chính)
 
 
 
